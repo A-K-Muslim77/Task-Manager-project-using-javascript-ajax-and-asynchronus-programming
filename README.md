@@ -2,5 +2,4 @@
 2. API call using fetch API (Post, Delete, Get, Update)
 3. using:
 4.   fetch API
-5.   Ajax Architecture
-6.   
+5.   Ajax Architecture   
