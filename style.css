@@ -1,0 +1,12 @@
+.main-section{
+    margin: 20px auto;
+    width: 80vh;
+}
+.title{
+    text-align: center;
+}
+.single-task{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
